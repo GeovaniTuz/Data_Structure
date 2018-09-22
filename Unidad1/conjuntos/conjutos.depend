@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1537567215 source:c:\users\geoal\documents\estructura_de_datos\unidad_1ejercicio\conjutos\main.cpp
+	<iostream>
+	"Conjuntos.h"
+	<stdlib.h>
+	<string>
+
+1537565283 c:\users\geoal\documents\estructura_de_datos\unidad_1ejercicio\conjutos\include\conjuntos.h
+
+1537565219 source:c:\users\geoal\documents\estructura_de_datos\unidad_1ejercicio\conjutos\src\conjuntos.cpp
+	<conjuntos.h>
+	<iostream>
+	<process.h>
+	<stdlib.h>
+
