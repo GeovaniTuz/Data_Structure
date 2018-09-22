@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1537552068 source:c:\users\geoal\documents\estructura_de_datos\unidad_1ejercicio\numero_natural\main.cpp
+	<iostream>
+	<stdlib.h>
+	<cmath>
+	<string>
+	<fstream>
+	"numeros.h"
+	<stdlib.h>
+
+1537552068 c:\users\geoal\documents\estructura_de_datos\unidad_1ejercicio\numero_natural\include\numeros.h
+
+1537552068 source:c:\users\geoal\documents\estructura_de_datos\unidad_1ejercicio\numero_natural\src\numeros.cpp
+	"numeros.h"
+	<iostream>
+	<stdlib.h>
+	<cmath>
+	<string>
+	<fstream>
+
